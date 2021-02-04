@@ -102,11 +102,11 @@ function showImgEnemy(id) {
     choiceImgEnemy.classList.add('fade');
   }, 100);
   if (id === 'r') {
-    choiceImgEnemy.src = '/images/rock.png';
+    choiceImgEnemy.src = '../images/rock.png';
   } else if (id === 'p') {
-    choiceImgEnemy.src = '/images/paper.png';
+    choiceImgEnemy.src = '../images/paper.png';
   } else if (id === 's') {
-    choiceImgEnemy.src = '/images/scissors.png';
+    choiceImgEnemy.src = '../images/scissors.png';
   }
 }
 
