@@ -1,6 +1,6 @@
 ## Simple game "Rock Paper Scissors" versus computer
 ___
-follow by this link => [Rock Paper Scissors](https://kishkh.github.io/Meeting-planning-calendar/dist/calendar.html)
+follow by this link => [Rock Paper Scissors](https://kishkh.github.io/Rock-paper-scissorsr/src/index.html)
 
 ___
 ### Description:
