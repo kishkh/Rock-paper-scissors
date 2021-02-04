@@ -1,6 +1,6 @@
 ## Simple game "Rock Paper Scissors" versus computer
 ___
-follow by this link => [Rock Paper Scissors](https://kishkh.github.io/Rock-paper-scissorsr/src/index.html)
+follow by this link => [Rock Paper Scissors](https://kishkh.github.io/Rock-paper-scissors/src/index.html)
 
 ___
 ### Description:
